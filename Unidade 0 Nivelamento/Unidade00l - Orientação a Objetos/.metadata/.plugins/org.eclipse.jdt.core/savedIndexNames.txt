@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\T-Gamer\Desktop\AULAS PUC\AEDS e BD\ARQUIVOS PROGRAMAÇÃO\AEDS II\Unidade 0 Nivelamento\Unidade00l - Orientação a Objetos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

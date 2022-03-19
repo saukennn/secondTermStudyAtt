@@ -1,0 +1,17 @@
+Arq -> para acesso sequencial, atua em modo texto.
+
+RandomAccessFile -> para acesso aleatório, atua em modo binário.
+
+Arq.openWrite() -> cria e abre arquivo para escrita.
+
+Arq.openRead() -> abre arquivo e lê informações.
+
+Arq.println() -> Escreve no arquivo dados.
+
+Arq.close() -> fecha arquivo.
+
+Arq.readInt/Double/Char/Boolean/String() -> lê tipo de dado no arquivo .
+
+Arq.print() -> escreve no arquivo
+
+Arq.hasNext() -> analisa se existe outra string 
